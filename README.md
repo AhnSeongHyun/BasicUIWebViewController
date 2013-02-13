@@ -17,4 +17,4 @@ Only one function:
 
 
 ###License
-- FREE
+- BSD License.
